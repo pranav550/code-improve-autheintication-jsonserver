@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "email": "test1@gmail.com",
+      "password": "$2a$10$fNx5TGDc0WqfKEeyavfYlua.wstM87.X0mah5qrqFeoXMYgpqLNm6",
+      "id": 1
+    },
+    {
+      "email": "ddddd@gmail.com",
+      "password": "$2a$10$oaS.YVvWT4gSP7Off71EaOFG3OKdVdSt4zZB4Cu57ItGu31qbvrJ.",
+      "id": 2
+    },
+    {
+      "email": "test4@gmail.com",
+      "password": "$2a$10$CDV.jbK/Blc1qbBqaVJpnuDxPsvhxhQwhaNaGTagrQVRpj6yH.9L.",
+      "id": 3
+    },
+    {
+      "email": "test2@gmail.com",
+      "password": "$2a$10$0OMPLb/y33kQoAgy1urJmudwBA6bxQlyXCccZUxGMBoO8ueENpgo6",
+      "id": 4
+    },
+    {
+      "email": "test3@gmail.com",
+      "password": "$2a$10$uTkcXRRS79gxn8higyit/.kxgdIHcTt9CaQRwi33.aa6ux8NAlsHO",
+      "id": 5
+    },
+    {
+      "email": "test5@gmail.com",
+      "password": "$2a$10$rCUwCa97MxoJ6uFdi.Mfuu7cgiXRyFHl3kONfa8WP8GhCI6CrMyf2",
+      "id": 6
+    },
+    {
+      "email": "test6@gmail.com",
+      "password": "$2a$10$9y/tbDUgkYcvvjv9Dxplz.WLgVkrkXpI6pvnAFEOPA55c.RqPxMFe",
+      "id": 7
+    }
+  ]
+}
